@@ -8,6 +8,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type":"git",
+    "url":"git+https://github.com/pothuraju-dev/vue3-forms"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build && npm run build:styles",
@@ -29,5 +33,20 @@
     "typescript": "^5.0.2",
     "vite": "^4.3.2",
     "vue-tsc": "^1.4.2"
-  }
+  },
+  "keywords": [
+    "vue3",
+    "vue",
+    "component",
+    "components",
+    "form",
+    "vue forms",
+    "tailwind forms"
+  ],
+  "author": "Pothuraju Sri Ram <ram.k160796@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url":"https://github.com/pothuraju-dev/vue3-forms/issues"
+  },
+  "homepage": "https://github.com/pothuraju-dev/vue3-forms#readme"
 }
